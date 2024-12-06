@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/add"
+
+    android:icon="@drawable/add_24px"
+    android:title="ADD"
+
+
+    >
+
+</item>
+
+    <item android:id="@+id/view"
+
+        android:icon="@drawable/search_20px"
+        android:title="VIEW"
+
+
+        >
+
+    </item>
+
+    <item android:id="@+id/record"
+
+        android:icon="@drawable/edit_24px"
+        android:title="RECORD"
+
+
+        >
+
+    </item>
+</menu>

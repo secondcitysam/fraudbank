@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112054410163",
+    "project_id": "bankdsa-195a9",
+    "storage_bucket": "bankdsa-195a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112054410163:android:217601062faf40df0b89c6",
+        "android_client_info": {
+          "package_name": "com.example.frauddetector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANUReW9vkF7KbDx4I3rt_JlyiJ6mTtgj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

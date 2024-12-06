@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bgmain">#A7C7E7</color>
+    <color name="bgmain2">#30A7C7E7</color>
+    <color name="main2">#CD4FF7</color>
+    <color name="main3">#FFF6AF46</color>
+
+    <color name="textgreen">#96DED1</color>
+
+    <color name="textgreen2">#F0FFFF</color>
+
+
+    <color name="dark_blue">#32357a</color>
+    <color name="light_blue">#f2f1f6</color>
+    <!--    <color name="light_pink">#CFBFFF</color>-->
+    <color name="light_pink">#FFFFFF</color>
+    <!--    <color name="purple">#302D43</color>-->
+    <color name="purple"> #000000</color>
+
+
+
+    <color name="purpleog">#2E2A6D</color>
+    <color name="purple_match1">#FFC0CB</color>
+    <color name="purple_match2">#008000</color>
+    <color name="purple_match3">#FFA500</color>
+
+
+    <!--
+    Dashboard colors
+
+    -->
+    <color name="home_bg">#f2f5f8</color>
+    <color name="banner_bg">#F1e9CE</color>
+    <color name="banner_bg_light">#56F1e9CE</color>
+
+    <!--
+  card colors
+
+  -->
+    <color name="card1">#d4cbe5</color>
+    <color name="card2">#7adccf</color>
+    <color name="card3">#f7c59f</color>
+    <color name="card4">#b8d7f5</color>
+
+    <color name="zdc_yellowlight">
+        #ffeaa4
+    </color>
+
+    <color name="zdc_bluelight">#63C5DA</color>
+
+
+    <color name="zdc_bluelightB">#8063C5DA</color>
+
+
+    <color name="zd_records">#6200EE</color>
+    <color name="zd_sheet">#FF0266</color>
+    <color name="zd_sheett">#90FF0266</color>
+    <color name="zd_sheet_text">#0336FF</color>
+    <color name="zd_sheet2">#50FF0266</color>
+    <color name="zd_sheet3">#05FF0266</color>
+    <color name="zd_records2">#FFDE03</color>
+
+    <color name="zd_read_1">#4E0D3A</color>
+    <color name="zd_read_2">#720d5d</color>
+    <color name="zd_read_3">#E30425</color>
+
+    <color name="allbg">#00b8d4</color>
+    <color name="alltext">#0097A7</color>
+    <color name="alltitle">#006064</color>
+    <color name="sittab">#00e5ff</color>
+    <color name="zf_title_bg">#AA00FF</color>
+    <color name="zf_bg">#E1BEE7</color>
+    <color name="zf_text_bg">#4A148C</color>
+    <color name="fea9a7">#FEA9A7</color>
+    <!--    <color name="shlokpurple">#302D43</color>-->
+    <color name="shlokpurple">#000000</color>
+    <color name="gray">#2B2930</color>
+
+    <!--    <color name="empty"></color>-->
+    <!--    <color name="progress"></color>-->
+    <!--    <color name="progress_click"></color>-->
+    <!--    <color name="pin_background"></color>-->
+    <!--    <color name="pin_text"></color>-->
+    <!--    <color name="bar_title_color"></color>-->
+</resources>
